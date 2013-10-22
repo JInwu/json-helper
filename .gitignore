@@ -1,0 +1,6 @@
+*.swp
+*.log
+*.iml
+/.settings
+/.idea
+target
